@@ -1,29 +1,118 @@
-
 {
-    "blogs":[
-        {
-            "title": "My First Blog",
-            "author": "Micheal Scott",
-            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-            "id": 1
-        },
-        {
-            "title": "My Blog",
-            "author": "Jim Harper",
-            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-            "id": 2
-        },
-        {
-            "title": "My Only Blog",
-            "author": "Dwight Schrute",
-            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-            "id": 3
-        }
-    ],
-    "comments":[
-        {
-            "comment": "Micheal is hilarious",
-            "id": 1
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "author": "Micheal Scott",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "id": 1
+    },
+    {
+      "title": "My Blog",
+      "author": "Jim Harper",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "id": 2
+    },
+    {
+      "title": "My Only Blog",
+      "author": "Dwight Schrute",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "id": 3
+    },
+    {
+      "title": "My Personal Blog",
+      "author": "Micheal",
+      "body": "I love to write content pieces for my website. This is one of them!!!",
+      "id": 4
+    },
+    {
+      "title": "My Personal Blog",
+      "author": "Micheal",
+      "body": "I love to write content pieces for my website. This is one of them!!!",
+      "id": 5
+    },
+    {
+      "title": "My Personal Blog",
+      "author": "Micheal",
+      "body": "I love to write content pieces for my website. This is one of them!!!",
+      "id": 6
+    },
+    {
+      "title": "",
+      "author": "Jim",
+      "body": "",
+      "id": 7
+    },
+    {
+      "title": "",
+      "author": "Jim",
+      "body": "",
+      "id": 8
+    },
+    {
+      "title": "",
+      "author": "Jim",
+      "body": "",
+      "id": 9
+    },
+    {
+      "title": "",
+      "author": "Jim",
+      "body": "",
+      "id": 10
+    },
+    {
+      "title": "d",
+      "author": "Jim",
+      "body": "",
+      "id": 11
+    },
+    {
+      "title": "d",
+      "author": "Jim",
+      "body": "",
+      "id": 12
+    },
+    {
+      "title": "df",
+      "author": "Jim",
+      "body": "",
+      "id": 13
+    },
+    {
+      "title": "df",
+      "author": "Jim",
+      "body": "",
+      "id": 14
+    },
+    {
+      "title": "A clean blog",
+      "author": "Dwight",
+      "body": "Checking",
+      "id": 15
+    },
+    {
+      "title": "dadas",
+      "author": "Jim",
+      "body": "adasdasdasd",
+      "id": 16
+    },
+    {
+      "title": "asaSas",
+      "author": "Micheal",
+      "body": "AsasaS",
+      "id": 17
+    },
+    {
+      "title": "Checking History Object",
+      "author": "Micheal",
+      "body": "History object from the react router is pretty cool!!",
+      "id": 18
+    }
+  ],
+  "comments": [
+    {
+      "comment": "Micheal is hilarious",
+      "id": 1
+    }
+  ]
 }

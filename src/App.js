@@ -4,6 +4,7 @@ import CreateBlog from './CreateBlog';
 
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import BlogDetails from './BlogDetails';
+import Footer from './Footer';
 
 
 // Templates
@@ -16,11 +17,13 @@ function App() {
           <Switch>
             <Route exact path='/'>
                 <Home />
+                <Footer/>
             </Route>
             <Route path='/create'>
                 <CreateBlog></CreateBlog>
             </Route>
-            <Route path='/blogs'>
+            {/* Route Parameter */}
+            <Route path='/blogs/:id'>
                 <BlogDetails></BlogDetails>
             </Route>
           </Switch>
